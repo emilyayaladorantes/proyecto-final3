@@ -1,0 +1,34 @@
+body{
+    font-family: arial black,helvetica;
+    background:black;
+ }
+ .menú{
+    list-style: none;
+    padding: 0;
+    background: #1e1552;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+ }
+ .menú li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+ }
+ .menú li{
+    display: inline-block;
+    text-align: center;
+ }
+ .menú li a:hover{
+    background: goldenrod;
+ }
+ section{
+   list-style: none;
+   padding: 0;
+   background: goldenrod;
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+}
+ }

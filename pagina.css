@@ -1,0 +1,27 @@
+body{
+   font-family: arial black,helvetica;
+   background: #000000;
+}
+.menú{
+   list-style: none;
+   padding: 0;
+   background: #30005e;
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+}
+.menú li a{
+   text-decoration: none;
+   color: white;
+   padding: 20px;
+   display: block;
+}
+.menú li{
+   display: inline-block;
+   text-align: center;
+}
+
+.menú li a:hover{
+   background: rgb(180, 132, 9);
+}
+  

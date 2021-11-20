@@ -1,0 +1,56 @@
+
+{
+    "apiName":"mobile legends",
+    "origin":"CDMX",
+    "created":2021,
+    "figures":[
+       {
+        "id":1,   
+        "name":"Chou",
+        "type":"combatiente",
+        "figure":"https://drive.google.com/file/d/1tINOYrhAVjSQ2sd_zZXNX7aj2A7UVwHw/view?usp=sharing"     
+       },  
+       {
+        "id":2,   
+        "name":"zhilong",
+        "type":"combatiente",
+        "figure":"https://drive.google.com/file/d/1EGJpdzUQZkKKZqgHAbTLudOlU3PZXHNg/view?usp=sharing"     
+       },
+       {
+        "id":3,   
+        "name":"silvanna",
+        "type":"combatiente",
+        "figure":"https://drive.google.com/file/d/1D1RaKebyJhFCtRIH87LYh0nOxrKgea6W/view?usp=sharing"     
+       },
+       {
+        "id":4,   
+        "name":"paquito",
+        "type":"combatiente",
+        "figure":"https://drive.google.com/file/d/1ZYKUUli2tmO05z1Oqp4RIDTNUjsRQzdn/view?usp=sharing"     
+       },
+       {
+        "id":5,   
+        "name":"bane",
+        "type":"combatiente",
+        "figure":"https://drive.google.com/file/d/1RPq057IMC_sdHV_SYn5YEAdV7tkNbPTK/view?usp=sharing"     
+       },
+       {
+        "id":6,   
+        "name":"hilda",
+        "type":"combatiente",
+        "figure":"https://drive.google.com/file/d/1-141D6ojdgbu-U3_FPjufXexRvVVzPR6/view?usp=sharing"     
+       
+        } 
+    ] 
+}
+
+   
+    
+
+
+
+
+
+
+
+

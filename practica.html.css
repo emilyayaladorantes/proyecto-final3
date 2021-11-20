@@ -1,0 +1,73 @@
+
+
+
+.menú{   
+    list-style: none;
+    padding: 0;
+    background: #4a148c;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.section h1 {  
+
+    list-style: none;
+    padding: 0;
+    background: #4a148c;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+ }
+ 
+  
+
+ 
+.menú li a{
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+    display: block;
+}
+.menú li{
+    display: inline-block;
+    text-align: center;
+}
+.menú li a:hover{
+    background: rgb(180, 132, 9);
+ }
+   
+section h4{
+    list-style: none;
+    padding: 0;
+    background: goldenrod;
+    width: 30%;
+    height: 90px;
+    max-width: 1000px;
+    margin: auto;
+ }
+
+@media screen and (max-width:640px){  
+    @media only screen and (min-width:640px) and (max-width:1024px)
+    @media only screen and (min-width:1024px) and (max-width:1280px
+    @media only screen and (min-width:1280px) and (max-width:1920px)
+    @media only screen and (min-width:1920px)
+    smartphone vertical, tablet vertical,  laptop (touch) vertical, monitores y televisores
+    }
+
+
+
+@media (max-width:640px)
+@media only screen and (min-width:640px) and (max-width:1024px)
+@media only screen and (min-width:1024px) and (max-width:1280px
+@media only screen and (min-width:1280px) and (max-width:1920px)
+@media only screen and (min-width:1920px)
+        
+
+
+
+
+
+
+
+    

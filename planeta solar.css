@@ -1,0 +1,31 @@
+body{ 
+    width:90%;
+    height:100px;
+    background-color:black;
+  
+padding-top:30;  }
+
+    
+    header { 
+    width:90%;
+    height:350x;
+     background-color:rgb(31, 30, 30);
+     padding: top 30px;
+     margin:auto;
+    } 
+     
+    main{
+    width:95%;
+     height: 2500px;
+     background-color:rgb(34, 34, 36);
+     margin: auto;
+    padding: 95px;
+     }
+    
+    
+    main section{   
+        height:300px;
+         background-color:rgba(11, 33, 82, 0.671);
+         margin-top: 10px;
+         margin-bottom: 10px; 
+    }
